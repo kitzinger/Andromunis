@@ -1,0 +1,176 @@
+body {
+  background-color: white;
+}
+
+.navbar{
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+.navbar-brand{
+    color: lightseagreen !important;
+    font-family: 'Lobster', cursive;
+}
+
+.navbar-toggler{
+    z-index: 1000;
+    filter: invert(1);
+}
+
+.collapse a{
+    display: line block;
+    font-family: 'Staatliches', cursive;
+    color: rgb(255, 208, 0) !important;
+}
+
+.banner{
+    background-image: url("images/paper-3164718_1920.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: auto;
+    font-family: 'Staatliches', cursive;
+}
+
+.hehe{
+    text-align: center;
+}
+
+.texto{
+    padding-top: 30vh;
+    color: rgb(255, 208, 0);
+}
+
+.pretitulo{
+    font-family: 'Poiret One', cursive;
+    color: white;
+}
+
+p {
+    color: rgb(255, 208, 0);
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+}
+
+.bg-t{
+    background-color: transparent;
+}
+
+.pt2{
+    background-color: white;
+    padding-block-end: 35vh;
+}
+
+.cursos{
+    padding-top: 10vh;
+    color: lightseagreen;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    font-size: 40px;
+}
+
+.escolha{
+   font-family: 'Poiret One', cursive;
+    color: rgb(68, 68, 68) !important;
+}
+
+.icons{
+    color:  rgb(68, 68, 68);
+    padding-top: 20vh;
+}
+.title-enem{
+    font-family: 'Roboto', sans-serif;
+}
+.text-enem{
+    font-family: 'Poiret One', cursive;
+}
+.fas{
+    color: lightseagreen;
+}
+.fab{
+    color: lightseagreen;
+}
+
+.pt3{
+    background-color: rgb(207, 207, 207);
+    padding-top: 10vh;
+    padding-block-end: 10vh;
+}
+
+.materiais{
+    color: rgb(255, 208, 0);
+    font-family: 'Anton', sans-serif;
+}
+
+.titulo-materiais{
+    color: rgb(255, 208, 0);
+    font-family: 'Roboto', sans-serif;
+}
+.corp{
+    color:rgb(68, 68, 68);
+    font-family: 'Poiret One', cursive;
+}
+.opcoes{
+    padding-left: 4vh;
+}
+
+.pt4{
+    background-color: white;
+    padding-block-end: 25vh;
+}
+
+.professores{
+    padding-top: 10vh;
+    color: lightseagreen;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    font-size: 40px;
+}
+.mestres{
+    color:rgb(68, 68, 68) !important;
+    font-family: 'Poiret One', cursive;
+}
+
+.nome-prof{
+    color: lightseagreen;
+    font-family: 'Roboto', sans-serif;
+}
+
+.pt5{
+    background-image: url("images/vintage-1557993_1920.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 85vh;
+    width: auto;
+}
+
+.spaces{
+    padding-top: 20vh;
+    padding-left: 10vh;
+    padding-right: 10vh;
+}
+
+.dados{
+    color:rgb(255, 208, 0) !important;
+    font-family: 'Poiret One', cursive;
+    padding-left: 5vh;
+    font-size: 20px;
+}
+
+.pt6{
+    background-color: white;
+}
+
+.wood{
+    color: white !important;
+    font-family: 'Poiret One', cursive;
+}
+
+.redes-sociais{
+    background: white;
+    padding-top: 5vh;
+    padding-block-end: 5vh;
+    padding-left: 25vh;
+    
+}
